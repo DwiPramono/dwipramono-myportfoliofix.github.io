@@ -256,7 +256,7 @@
                 background: none;
             }
             
-            /*services section styling*/
+            /*work section styling*/
             
             .work,
             .teams {
@@ -392,7 +392,7 @@
                 }
             }
             
-            /*responsive media query start*/
+            /*responsive*/
             
             @media(max-width: 1300px) {
                 .home .max-width {
@@ -471,11 +471,7 @@
                     width: calc(50% - 10px);
                     margin-bottom: 20px;
                 }
-                /* .skills .skills-content .column {
-                    width: 100%;
-                    margin-bottom: 35px;
-                } */
-                /*about section styling */
+                
             }
             
             @media(max-width: 690px) {
